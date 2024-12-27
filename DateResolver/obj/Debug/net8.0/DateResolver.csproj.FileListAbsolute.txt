@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\bin\Debug\net8.0\DateResolver.deps.json
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\bin\Debug\net8.0\DateResolver.runtimeconfig.json
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\bin\Debug\net8.0\DateResolver.dll
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\bin\Debug\net8.0\DateResolver.pdb
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.AssemblyInfo.cs
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.dll
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\refint\DateResolver.dll
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.pdb
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\DateResolver.genruntimeconfig.cache
+C:\Users\USER\Documents\Projects\CodeChallenge\DateResolver\obj\Debug\net8.0\ref\DateResolver.dll
